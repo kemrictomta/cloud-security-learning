@@ -11,26 +11,33 @@ enableRobotsTXT = true
   defaultColor = "auto"
   description = "Documenting my cloud & cybersecurity learning journey: labs, notes, and projects."
 
+# Tags support (URLs like /tags/security/)
+[taxonomies]
+  tag = "tags"
+
+# Main navigation
 [menu]
   [[menu.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 5
+
+  [[menu.main]]
     name = "Learning"
-    url = "/pages/learning/"
+    pageRef = "pages/learning"
     weight = 10
 
   [[menu.main]]
     name = "Stack"
-    url = "/pages/stack/"
+    pageRef = "pages/stack"
     weight = 20
 
   [[menu.main]]
     name = "Case Study"
-    url = "/pages/case-study/"
+    pageRef = "pages/case-study"
     weight = 30
 
   [[menu.main]]
     name = "Posts"
-    url = "/posts/"
+    pageRef = "posts"
     weight = 40
-
-[taxonomies]
-  tag = "tags"
