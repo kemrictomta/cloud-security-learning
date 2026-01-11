@@ -1,37 +1,42 @@
 ---
-title: "KemricTomta — Cloud & Security Learning"
+title: "I’m KemricTomta."
 date: 2026-01-11
 draft: false
 ---
 
-Hi 👋 I’m Kemric.  
-I document my progress in **Cloud** and **Cybersecurity** through **hands-on labs**, short writeups, and small projects.
+![KemricTomta](images/avatar.jpg)
 
-I start with a static learning page, and once I have a clear security objective, I build a minimal infrastructure to support it.
+I’m documenting my learning journey in **Cloud** and **Cybersecurity** through hands-on labs, short writeups, and small projects.
 
----
+I already have a strong engineering background (Python, Docker, graph data / Neo4j & Cypher). This site is where I turn that experience into a focused **cloud + security** skillset — with evidence, not hype.
+
+* * *
+
+## What I’m building here
+
+- A clear learning roadmap (what I’m learning now, next, and why)
+- Repeatable labs (steps, notes, outcomes)
+- Small projects with deliverables (repo, diagram, writeup)
+- A sanitized professional case study (real-world work, NDA-safe)
+
+* * *
+
+## How I learn
+
+**Learn by building.** I don’t just read— I implement, break things, fix them, and document the result.  
+**Document everything.** If it’s not written down, it didn’t happen.  
+**Minimal infrastructure.** I only build infra when it supports a clear security objective.
+
+* * *
 
 ## Start here
-- **Learning** → roadmap, current focus, labs, and projects  
-- **Stack** → tools and workflow I use  
-- **Case Study** → sanitized professional project (Python, Neo4j/Cypher, Docker)  
-- **Posts** → short notes and lab writeups  
 
----
+- **Learning:** `/pages/learning/`
+- **Stack:** `/pages/stack/`
+- **Case Study:** `/pages/case-study/`
+- **Posts:** `/posts/`
 
-## What I’m working on right now
-- Cloud: IAM + VPC basics  
-- Security: recon fundamentals + OWASP mindset  
-- DevOps: repeatable workflows with Docker + GitHub Actions  
+* * *
 
----
-
-## Featured learning tracks
-### Cloud
-- IAM, networking fundamentals, logging, Terraform
-
-### Security
-- Networking basics, recon, web security fundamentals, detection basics
-
-### DevOps
-- Docker, CI/CD, automation, and (later) Kubernetes basics
+> “Ship ugly, iterate fast.”  
+That’s the plan.
