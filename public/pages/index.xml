@@ -2,17 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on KemricTomta — Cloud &amp; Security Learning</title>
-    <link>http://localhost:1313/pages/</link>
+    <link>http://localhost:1313/cloud-security-learning/pages/</link>
     <description>Recent content in Pages on KemricTomta — Cloud &amp; Security Learning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/cloud-security-learning/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Professional Case Study (Sanitized)</title>
-      <link>http://localhost:1313/pages/case-study/</link>
+      <title>My Stack</title>
+      <link>http://localhost:1313/cloud-security-learning/pages/stack/</link>
       <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/case-study/</guid>
+      <guid>http://localhost:1313/cloud-security-learning/pages/stack/</guid>
+      
+      <description>&lt;p&gt;This page lists the tools and services I use for cloud, security, and hands-on learning.&lt;/p&gt;
+&lt;h2 id=&#34;core-tools&#34;&gt;Core Tools&lt;/h2&gt;
+&lt;h3 id=&#34;devops--cloud&#34;&gt;DevOps &amp;amp; Cloud&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Git + GitHub&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;Terraform&lt;/li&gt;
+&lt;li&gt;(AWS/Azure/GCP — in progress)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;security&#34;&gt;Security&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Wireshark&lt;/li&gt;
+&lt;li&gt;Nmap&lt;/li&gt;
+&lt;li&gt;Burp Suite&lt;/li&gt;
+&lt;li&gt;(SIEM tooling planned)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;workflow&#34;&gt;Workflow&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Notes → short writeups&lt;/li&gt;
+&lt;li&gt;Labs → repeatable steps&lt;/li&gt;
+&lt;li&gt;Projects → minimal infrastructure only when it supports a clear security objective&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Professional Case Study (Sanitized)</title>
+      <link>http://localhost:1313/cloud-security-learning/pages/case-study/</link>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cloud-security-learning/pages/case-study/</guid>
       
       <description>&lt;h2 id=&#34;architecture-model-importer--graph-based-validation-pipeline&#34;&gt;Architecture Model Importer &amp;amp; Graph-Based Validation Pipeline&lt;/h2&gt;
 &lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;
@@ -67,53 +99,86 @@
     
     <item>
       <title>Security &amp; Cloud Learning</title>
-      <link>http://localhost:1313/pages/learning/</link>
-      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/cloud-security-learning/pages/learning/</link>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/learning/</guid>
+      <guid>http://localhost:1313/cloud-security-learning/pages/learning/</guid>
       
-      <description>&lt;p&gt;I document my learning journey in cloud and cybersecurity through hands-on labs, notes, and small projects.&lt;/p&gt;
+      <description>&lt;p&gt;I document my learning journey in &lt;strong&gt;cloud&lt;/strong&gt; and &lt;strong&gt;cybersecurity&lt;/strong&gt; through &lt;strong&gt;hands-on labs&lt;/strong&gt;, short writeups, and small projects.&lt;br&gt;
+I start with a static learning page, and once I have a clear security objective, I build a minimal infrastructure to support it.&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;now&#34;&gt;Now&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Focus (this month)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Current focus: IAM + Networking fundamentals&lt;/li&gt;
-&lt;li&gt;Current lab: (add)&lt;/li&gt;
-&lt;li&gt;Next milestone: (add)&lt;/li&gt;
+&lt;li&gt;Cloud: IAM + Networking (VPC, routing, DNS, TLS basics)&lt;/li&gt;
+&lt;li&gt;Security: recon fundamentals + web basics (OWASP mindset)&lt;/li&gt;
+&lt;li&gt;DevOps: Docker + CI habits (repeatability)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Weekly routine&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2 labs/week → 1 short writeup&lt;/li&gt;
+&lt;li&gt;1 concept/week → summary notes + links&lt;/li&gt;
+&lt;li&gt;1 mini-project/month → documented deliverables&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;roadmap&#34;&gt;Roadmap&lt;/h2&gt;
-&lt;h3 id=&#34;cloud&#34;&gt;Cloud&lt;/h3&gt;
+&lt;h3 id=&#34;cloud-foundations&#34;&gt;Cloud Foundations&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; AWS fundamentals (IAM, VPC, EC2, S3)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Terraform (modules, state, CI checks)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; CI/CD (GitHub Actions)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Containers (Docker) → Kubernetes basics&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; AWS basics: IAM, EC2, S3&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Networking: VPC, subnets, routing, security groups&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Logging: CloudTrail / CloudWatch basics&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; IaC: Terraform fundamentals&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;security&#34;&gt;Security&lt;/h3&gt;
+&lt;h3 id=&#34;devops-foundations&#34;&gt;DevOps Foundations&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Networking (DNS, TLS, routing)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Linux hardening&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Web security (OWASP basics)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Detection (logs → alerts)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Git: clean commits, branching, README discipline&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Docker: build/run, images, volumes, networking&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; CI/CD: GitHub Actions (lint → build → deploy)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Kubernetes basics (later): k3s/minikube, pods, services&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;security-foundations&#34;&gt;Security Foundations&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Networking basics: DNS, TLS, HTTP, common ports&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Linux basics: permissions, services, logs&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Recon: Nmap, basic enumeration, threat thinking&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Web basics: OWASP Top 10 concepts&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Detection basics (later): logs → alerts → dashboards&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;tools-i-use&#34;&gt;Tools I Use&lt;/h2&gt;
 &lt;h3 id=&#34;cloud--devops&#34;&gt;Cloud &amp;amp; DevOps&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;Git + GitHub&lt;/li&gt;
 &lt;li&gt;Docker&lt;/li&gt;
-&lt;li&gt;Terraform&lt;/li&gt;
 &lt;li&gt;GitHub Actions&lt;/li&gt;
-&lt;li&gt;(AWS/Azure/GCP)&lt;/li&gt;
+&lt;li&gt;Terraform (in progress)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;security-1&#34;&gt;Security&lt;/h3&gt;
+&lt;h3 id=&#34;security&#34;&gt;Security&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Wireshark&lt;/li&gt;
 &lt;li&gt;Nmap&lt;/li&gt;
-&lt;li&gt;Burp Suite&lt;/li&gt;
-&lt;li&gt;(Wazuh/ELK later)&lt;/li&gt;
+&lt;li&gt;Burp Suite (learning)&lt;/li&gt;
+&lt;li&gt;Linux (Ubuntu/Kali labs)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;labs--writeups&#34;&gt;Labs &amp;amp; Writeups&lt;/h2&gt;
+&lt;h3 id=&#34;completed&#34;&gt;Completed&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;✅ (lab 1)&lt;/li&gt;
-&lt;li&gt;⏳ (lab 2)&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;li&gt;✅ (add your first lab here)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;in-progress&#34;&gt;In progress&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;⏳ (add the lab you’re doing now)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;next&#34;&gt;Next&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;⏭️ (what you will do next)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
+&lt;h3 id=&#34;1-secure-cloud-baseline-planned&#34;&gt;1) Secure Cloud Baseline (planned)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Goal:&lt;/strong&gt; minimal secure baseline (IAM + logging + network basics).&lt;br&gt;
+&lt;strong&gt;Deliverables:&lt;/strong&gt;&lt;/p&gt;</description>
       
     </item>
     
