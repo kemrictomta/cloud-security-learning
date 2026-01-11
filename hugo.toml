@@ -1,0 +1,36 @@
+baseURL = "https://blog.kemrictomta.net/"
+languageCode = "en"
+title = "KemricTomta — Cloud & Security Learning"
+theme = "hugo-blog-awesome"
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  defaultColor = "auto"
+  description = "Documenting my cloud & cybersecurity learning journey: labs, notes, and projects."
+
+[menu]
+  [[menu.main]]
+    name = "Learning"
+    url = "/pages/learning/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Stack"
+    url = "/pages/stack/"
+    weight = 20
+
+  [[menu.main]]
+    name = "Case Study"
+    url = "/pages/case-study/"
+    weight = 30
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 40
+
+[taxonomies]
+  tag = "tags"

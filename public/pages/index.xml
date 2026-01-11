@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on KemricTomta — Cloud &amp; Security Learning</title>
+    <link>http://localhost:1313/pages/</link>
+    <description>Recent content in Pages on KemricTomta — Cloud &amp; Security Learning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Professional Case Study (Sanitized)</title>
+      <link>http://localhost:1313/pages/case-study/</link>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/case-study/</guid>
+      
+      <description>&lt;h2 id=&#34;architecture-model-importer--graph-based-validation-pipeline&#34;&gt;Architecture Model Importer &amp;amp; Graph-Based Validation Pipeline&lt;/h2&gt;
+&lt;h3 id=&#34;context&#34;&gt;Context&lt;/h3&gt;
+&lt;p&gt;In a professional environment, I worked on a software system designed to import structured architecture models, transform them into a graph representation, and perform automated consistency and rule-based validations.&lt;/p&gt;
+&lt;p&gt;The goal of the system was to enable scalable analysis of complex architectural data and detect inconsistencies through formalized rules.&lt;/p&gt;
+&lt;h3 id=&#34;my-role&#34;&gt;My Role&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Python developer and technical contributor&lt;/li&gt;
+&lt;li&gt;Focused on data ingestion, transformation, and validation logic&lt;/li&gt;
+&lt;li&gt;Worked closely with architectural concepts and model structures&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technologies--tools&#34;&gt;Technologies &amp;amp; Tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt; — parsing, transformation, and validation workflows&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Neo4j&lt;/strong&gt; — graph-based data modeling&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cypher&lt;/strong&gt; — rule-based queries for consistency checks&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Docker&lt;/strong&gt; — containerized tooling and reproducible environments&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JSON&lt;/strong&gt; — structured input models and meta-model definitions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technical-challenges-addressed&#34;&gt;Technical Challenges Addressed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Transforming hierarchical architecture models into a graph structure&lt;/li&gt;
+&lt;li&gt;Designing reusable and maintainable Cypher validation rules&lt;/li&gt;
+&lt;li&gt;Handling relationships, dependencies, and cross-references in large models&lt;/li&gt;
+&lt;li&gt;Ensuring consistency across multiple model versions&lt;/li&gt;
+&lt;li&gt;Making the importer deterministic and repeatable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;key-contributions&#34;&gt;Key Contributions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Implemented Python-based import logic mapping model entities to graph nodes and relationships&lt;/li&gt;
+&lt;li&gt;Developed Cypher queries to validate architectural rules and detect inconsistencies&lt;/li&gt;
+&lt;li&gt;Improved maintainability by separating model parsing from validation logic&lt;/li&gt;
+&lt;li&gt;Contributed to containerized workflows for easier setup and execution&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;what-i-learned&#34;&gt;What I Learned&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Practical graph modeling trade-offs for real-world systems&lt;/li&gt;
+&lt;li&gt;Writing readable and maintainable Cypher queries&lt;/li&gt;
+&lt;li&gt;Structuring validation logic as code rather than manual checks&lt;/li&gt;
+&lt;li&gt;Using Docker to ensure consistent execution environments&lt;/li&gt;
+&lt;li&gt;Thinking about architecture as data, not just diagrams&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;what-i-would-improve-today&#34;&gt;What I Would Improve Today&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Add automated CI checks for model validation&lt;/li&gt;
+&lt;li&gt;Introduce schema and version enforcement for input models&lt;/li&gt;
+&lt;li&gt;Apply stricter access control around tooling and data&lt;/li&gt;
+&lt;li&gt;Improve observability and logging for validation pipelines&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Security &amp; Cloud Learning</title>
+      <link>http://localhost:1313/pages/learning/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/learning/</guid>
+      
+      <description>&lt;p&gt;I document my learning journey in cloud and cybersecurity through hands-on labs, notes, and small projects.&lt;/p&gt;
+&lt;h2 id=&#34;now&#34;&gt;Now&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Current focus: IAM + Networking fundamentals&lt;/li&gt;
+&lt;li&gt;Current lab: (add)&lt;/li&gt;
+&lt;li&gt;Next milestone: (add)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;roadmap&#34;&gt;Roadmap&lt;/h2&gt;
+&lt;h3 id=&#34;cloud&#34;&gt;Cloud&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; AWS fundamentals (IAM, VPC, EC2, S3)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Terraform (modules, state, CI checks)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; CI/CD (GitHub Actions)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Containers (Docker) → Kubernetes basics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;security&#34;&gt;Security&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Networking (DNS, TLS, routing)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Linux hardening&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Web security (OWASP basics)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Detection (logs → alerts)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tools-i-use&#34;&gt;Tools I Use&lt;/h2&gt;
+&lt;h3 id=&#34;cloud--devops&#34;&gt;Cloud &amp;amp; DevOps&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;Terraform&lt;/li&gt;
+&lt;li&gt;GitHub Actions&lt;/li&gt;
+&lt;li&gt;(AWS/Azure/GCP)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;security-1&#34;&gt;Security&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Wireshark&lt;/li&gt;
+&lt;li&gt;Nmap&lt;/li&gt;
+&lt;li&gt;Burp Suite&lt;/li&gt;
+&lt;li&gt;(Wazuh/ELK later)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;labs--writeups&#34;&gt;Labs &amp;amp; Writeups&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ (lab 1)&lt;/li&gt;
+&lt;li&gt;⏳ (lab 2)&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
