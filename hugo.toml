@@ -11,6 +11,9 @@ enableRobotsTXT = true
   defaultColor = "auto"
   description = "Documenting my cloud & cybersecurity learning journey: labs, notes, and projects."
 
+  # Optional nice touches (if theme supports)
+  mainSections = ["posts"]
+
 # Tags support (URLs like /tags/security/)
 [taxonomies]
   tag = "tags"
