@@ -6,9 +6,15 @@ draft: false
 
 <div style="max-width: 720px; margin: 0 auto; text-align: center; line-height: 2;">
 
-<img src='{{ "images/avatar.jpg.jpeg" | absURL }}'
+<img src="/cloud-security-learning/images/avatar.jpg.jpeg"
      alt="KemricTomta"
-     style="width:120px;height:120px;border-radius:50%;margin:0 auto 2rem;display:block;" />
+     style="
+       width:130px;
+       height:130px;
+       border-square:50%;
+       display:block;
+       margin:0 auto 2rem;
+     " />
 
 
 
