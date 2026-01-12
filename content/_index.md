@@ -6,7 +6,7 @@ draft: false
 
 <div style="max-width: 720px; margin: 0 auto; text-align: center; line-height: 2;">
 
-<img src='{{ "images/avatar.jpg" | relURL }}'
+<img src='{{ "images/avatar.jpg.jpeg" | relURL }}'
      alt="KemricTomta" 
      style="width:120px;height:120px;border-radius:50%;margin:0 auto 2rem;display:block;" />
 
