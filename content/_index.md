@@ -9,11 +9,11 @@ draft: false
 <img src="/cloud-security-learning/images/avatar.jpg.jpeg"
      alt="KemricTomta"
      style="
-       width:130px;
-       height:130px;
-       border-square:50%;
+       width:150px;
+       height:150px;
+       border-fit:cover;
        display:block;
-       margin:0 auto 2rem;
+       margin:10 auto 2rem;
      " />
 
 
