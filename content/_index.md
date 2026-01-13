@@ -1,5 +1,5 @@
 ---
-title: "I’m KemricTomta."
+title: "Home"
 date: 2026-01-11
 draft: false
 ---
@@ -19,16 +19,20 @@ draft: false
 
 
 <p style="margin-bottom: 1.25rem;">
-I’m documenting my learning journey in <strong>Cloud</strong> and <strong>Cybersecurity</strong>
-through hands-on labs, short writeups, and small projects.
+I’m <strong>Kemric </strong>, an engineer documenting my learning journey in
+<strong>Cloud</strong> and <strong>Cybersecurity</strong> through hands-on labs, concise write-ups,
+and small, production-minded projects.
 </p>
 
 
 
+
 <p style="margin-bottom: 2rem;">
-I already have a strong engineering background (Python, Docker, graph data / Neo4j, Cypher, SQL).
-This site is where I turn that experience into a focused
-<strong>cloud + security</strong> skillset — with evidence, not hype.
+I bring a strong engineering background spanning <strong>Python</strong>, <strong>Docker</strong>,
+and <strong>graph-based systems</strong> (Neo4j, Cypher, SQL), with prior experience in
+<strong>embedded systems</strong> and <strong>AUTOSAR-based software architectures</strong>.
+This site is where I intentionally transition that foundation into a focused
+<strong>cloud and cybersecurity</strong> skillset — with evidence, not hype.
 </p>
 
 
@@ -66,8 +70,7 @@ This site is where I turn that experience into a focused
 <hr />
 
 <p style="font-style: italic;">
-“Ship ugly, iterate fast.”<br />
-That’s the plan.
+“Iteration beats intention.”<br />
 </p>
 
 </div>
