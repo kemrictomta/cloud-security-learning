@@ -31,6 +31,8 @@ and small, production-minded projects.
 I bring a strong engineering background spanning <strong>Python</strong>, <strong>Docker</strong>,
 and <strong>graph-based systems</strong> (Neo4j, Cypher, SQL), with prior experience in
 <strong>embedded systems</strong> and <strong>AUTOSAR-based software architectures</strong>.
+</p>
+<p style="margin-bottom: 0.1rem;">
 This site is where I intentionally transition that foundation into a focused
 <strong>cloud and cybersecurity</strong> skillset — with evidence, not hype.
 </p>
