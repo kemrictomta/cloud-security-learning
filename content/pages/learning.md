@@ -4,90 +4,117 @@ date: 2026-01-11
 draft: false
 ---
 
-I document my learning journey in **cloud** and **cybersecurity** through **hands-on labs**, short writeups, and small projects.  
-I start with a static learning page, and once I have a clear security objective, I build a minimal infrastructure to support it.
+I document my learning journey in **cloud** and **cybersecurity engineering** through **hands-on labs**, focused writeups, and small but intentional projects.
+
+I start with a **static learning page** to clarify objectives and scope.  
+Once a security or cloud objective is clear, I build **minimal, purpose-driven tooling or infrastructure** to support it — nothing more, nothing less.
 
 ---
 
 ## Now
-**Focus (this month)**
-- Cloud: IAM + Networking (VPC, routing, DNS, TLS basics)
-- Security: recon fundamentals + web basics (OWASP mindset)
-- DevOps: Docker + CI habits (repeatability)
+**Focus (current period)**
+
+- **Cloud:** IAM fundamentals, networking basics (VPC, routing, DNS, TLS)
+- **Security:** trust boundaries, validation mindset, OWASP-oriented thinking
+- **DevOps:** reproducibility habits (Docker, tests, CI as a gate)
 
 **Weekly routine**
-- 2 labs/week → 1 short writeup
-- 1 concept/week → summary notes + links
-- 1 mini-project/month → documented deliverables
+- 2 labs/week → concise technical notes
+- 1 concept/week → summarized reasoning + references
+- 1 focused project/month → documented design + deliverables
 
 ---
 
 ## Roadmap
 ### Cloud Foundations
-- [ ] AWS basics: IAM, EC2, S3
+- [ ] AWS fundamentals: IAM, EC2, S3
 - [ ] Networking: VPC, subnets, routing, security groups
-- [ ] Logging: CloudTrail / CloudWatch basics
-- [ ] IaC: Terraform fundamentals
+- [ ] Observability basics: CloudTrail / CloudWatch
+- [ ] IaC foundations: Terraform (structure before scale)
 
 ### DevOps Foundations
-- [ ] Git: clean commits, branching, README discipline
-- [ ] Docker: build/run, images, volumes, networking
-- [ ] CI/CD: GitHub Actions (lint → build → deploy)
-- [ ] Kubernetes basics (later): k3s/minikube, pods, services
+- [ ] Git discipline: clean commits, readable history, meaningful messages
+- [ ] Docker: build/run images, volumes, networking
+- [ ] CI/CD: GitHub Actions (test → validate → enforce)
+- [ ] Kubernetes basics (later): k3s / minikube, core primitives
 
 ### Security Foundations
+- [ ] Input validation & trust boundaries
+- [ ] Linux fundamentals: permissions, services, logs
 - [ ] Networking basics: DNS, TLS, HTTP, common ports
-- [ ] Linux basics: permissions, services, logs
-- [ ] Recon: Nmap, basic enumeration, threat thinking
-- [ ] Web basics: OWASP Top 10 concepts
-- [ ] Detection basics (later): logs → alerts → dashboards
+- [ ] Web security concepts: OWASP Top 10 (mindset, not tools)
+- [ ] Detection fundamentals (later): logs → signals → alerts
 
 ---
 
 ## Tools I Use
 ### Cloud & DevOps
-- Git + GitHub
+- Git & GitHub
 - Docker
 - GitHub Actions
 - Terraform (in progress)
 
 ### Security
+- Linux (Ubuntu / Kali labs)
 - Wireshark
 - Nmap
 - Burp Suite (learning)
-- Linux (Ubuntu/Kali labs)
 
 ---
 
 ## Labs & Writeups
 ### Completed
-- ✅ (add your first lab here)
+- ✅ Architecture validation: input contracts & rule-based checks
 
 ### In progress
-- ⏳ (add the lab you’re doing now)
+- ⏳ Type-safe validation rules and automation-friendly output
 
 ### Next
-- ⏭️ (what you will do next)
+- ⏭️ CLI-based validation and CI integration
 
 ---
 
 ## Projects
-### 1) Secure Cloud Baseline (planned)
-**Goal:** minimal secure baseline (IAM + logging + network basics).  
-**Deliverables:**
-- Terraform repo
-- architecture diagram
-- short writeup (“what I built and why”)
+### 1) Architecture Validation Tool (active)
+**Goal:** design and implement a validation tool that enforces **explicit contracts and trust boundaries** on architecture/configuration models.
 
-### 2) Detection Starter Pack (planned)
-**Goal:** collect logs and build basic detection rules.  
+This project applies engineering rigor to a security-relevant problem:
+- untrusted inputs
+- deterministic validation
+- rule-based enforcement
+- automation and CI readiness
+
 **Deliverables:**
-- dashboards / alerts
-- writeup + screenshots
+- Python-based validator with clear domain model
+- rule-driven validation logic with tests
+- documented design decisions and roadmap
+
+Related writeup:  
+→ **Designing a Validation Tool — Applying Engineering Rigor to Cloud & Security Learning**
+
+---
+
+### 2) Secure Cloud Baseline (planned)
+**Goal:** define a minimal but secure cloud baseline (IAM, logging, network hygiene).
+
+**Deliverables:**
+- Terraform repository
+- architecture diagram
+- short rationale (“what is enforced and why”)
+
+---
+
+### 3) Detection Starter Pack (planned)
+**Goal:** move from validation to **visibility and detection**.
+
+**Deliverables:**
+- basic log collection
+- simple detection rules
+- screenshots + explanatory writeup
 
 ---
 
 ## Professional Case Study
-I also documented a sanitized professional project that introduced me to **Python**, **Neo4j/Cypher**, and **Docker**.
+I also documented a sanitized professional project that introduced me to **Python**, **Docker**, and **graph-based modeling** (Neo4j/Cypher), with a strong emphasis on architecture and validation logic.
 
 → Go to: **/pages/case-study/**
