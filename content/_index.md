@@ -6,14 +6,15 @@ draft: false
 
 <div style="max-width: 720px; margin: 0 auto; text-align: center; line-height: 2;">
 
-<img src="/cloud-security-learning/images/avatar1.jpg.jpeg"
+<img src="/cloud-security-learning/images/avatar.jpg"
      alt="KemricTomta"
      style="
        width:150px;
        height:150px;
-       border-fit:cover;
+       object-fit:cover;
+       border-sqare:50%;
        display:block;
-       margin:10 auto 2rem;
+       margin:10px auto 2rem;
      " />
 
 
