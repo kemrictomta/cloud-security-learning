@@ -6,7 +6,7 @@ draft: false
 
 <div style="max-width: 720px; margin: 0 auto; text-align: center; line-height: 2;">
 
-<img src="/cloud-security-learning/images/avatar.jpg.jpeg"
+<img src="/cloud-security-learning/images/avatar1.jpg.jpeg"
      alt="KemricTomta"
      style="
        width:150px;
@@ -19,7 +19,7 @@ draft: false
 
 
 <p style="margin-bottom: 1.25rem;">
-I’m <strong>Kemric </strong>, an engineer documenting my learning journey in
+I’m <strong> Eric </strong>, an engineer documenting my learning journey in
 <strong>Cloud</strong> and <strong>Cybersecurity</strong> through hands-on labs, concise write-ups,
 and small, production-minded projects.
 </p>
