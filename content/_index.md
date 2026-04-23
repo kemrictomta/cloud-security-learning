@@ -68,7 +68,7 @@ This site is where I intentionally transition that foundation into a focused
 <a href="pages/projects/">Projects</a> ·
 <a href="pages/stack/">Stack</a> ·
 <a href="pages/case-study/">Case Study</a> ·
-<a href="posts/">Posts</a>
+<a href="posts/secure-python-service">Posts</a>
 </p>
 
 <hr />
