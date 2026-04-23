@@ -33,6 +33,11 @@ enableRobotsTXT = true
     weight = 10
 
   [[menu.main]]
+    name = "Projects"
+    pageRef = "pages/projects"
+    weight = 15
+
+  [[menu.main]]
     name = "Stack"
     pageRef = "pages/stack"
     weight = 20

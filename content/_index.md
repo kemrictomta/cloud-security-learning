@@ -47,7 +47,7 @@ This site is where I intentionally transition that foundation into a focused
 <ul style="list-style-position: inside; padding-left: 0;">
   <li>A clear learning roadmap (what I’m learning now, next, and why)</li>
   <li>Repeatable labs (steps, notes, outcomes)</li>
-  <li>Small projects with deliverables (repo, diagram, writeup)</li>
+  <li>Hands-on projects with public repos and milestone logs</li>
   <li>A sanitized professional case study (real-world work, NDA-safe)</li>
 </ul>
 
@@ -65,6 +65,7 @@ This site is where I intentionally transition that foundation into a focused
 
 <p style="margin-bottom: 2rem;">
 <a href="pages/learning/">Learning</a> ·
+<a href="pages/projects/">Projects</a> ·
 <a href="pages/stack/">Stack</a> ·
 <a href="pages/case-study/">Case Study</a> ·
 <a href="posts/">Posts</a>

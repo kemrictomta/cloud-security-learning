@@ -74,47 +74,10 @@ Once a security or cloud objective is clear, I build **minimal, purpose-driven t
 
 ---
 
-## Projects
-### 1) Architecture Validation Tool (active)
-**Goal:** design and implement a validation tool that enforces **explicit contracts and trust boundaries** on architecture/configuration models.
+## Projects & Case Study
 
-This project applies engineering rigor to a security-relevant problem:
-- untrusted inputs
-- deterministic validation
-- rule-based enforcement
-- automation and CI readiness
+All hands-on projects with repos, skills, and milestone logs:  
+→ [Projects](/pages/projects/)
 
-**Deliverables:**
-- Python-based validator with clear domain model
-- rule-driven validation logic with tests
-- documented design decisions and roadmap
-
-Related writeup:  
-→ **Designing a Validation Tool — Applying Engineering Rigor to Cloud & Security Learning**
-
----
-
-### 2) Secure Cloud Baseline (planned)
-**Goal:** define a minimal but secure cloud baseline (IAM, logging, network hygiene).
-
-**Deliverables:**
-- Terraform repository
-- architecture diagram
-- short rationale (“what is enforced and why”)
-
----
-
-### 3) Detection Starter Pack (planned)
-**Goal:** move from validation to **visibility and detection**.
-
-**Deliverables:**
-- basic log collection
-- simple detection rules
-- screenshots + explanatory writeup
-
----
-
-## Professional Case Study
-I also documented a sanitized professional project that introduced me to **Python**, **Docker**, and **graph-based modeling** (Neo4j/Cypher), with a strong emphasis on architecture and validation logic.
-
-→ Go to: **/pages/case-study/**
+Sanitized professional experience (Python, Docker, Neo4j):  
+→ [Case Study](/pages/case-study/)
