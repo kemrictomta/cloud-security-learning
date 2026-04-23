@@ -1,11 +1,34 @@
 ---
-title: "Milestone: Full Engineering Documentation & Architecture Expansion"
-date: 2026-04-23
-draft: true
-tags: ["secure-python-service", "documentation", "architecture"]
+title: "Posts"
+date: 2026-01-11
+draft: false
 ---
 
-Next commit for [secure-python-service](https://github.com/kemrictomta/secure-python-service) — expanded the architecture doc and added full engineering lifecycle documentation.
+Milestone logs from my projects — each entry documents a real commit with what was delivered and why.
+
+---
+
+## secure-python-service
+
+### Milestone: Initial JSON Model Validator with Typed Report and Tests
+**Date:** 2026-01-14  
+**Commit:** `678f64e`
+
+First functional commit for [secure-python-service](https://github.com/kemrictomta/secure-python-service) — a JSON model validator that checks service-graph definitions and produces structured reports.
+
+**What was delivered:**
+- `domain.py` — `Issue(path, message, severity)` and `Report(ok, issues)` dataclasses
+- `validator.py` — `validate_model()` enforces JSON object type and required fields (`name`, `version`, `nodes`, `edges`)
+- `architecture.md` — initial architecture document with components, data format, and exit codes
+- 3 passing unit tests (invalid type, missing fields, valid payload)
+- Project scaffolding: Dockerfile, requirements.txt, GitHub Actions workflow, .gitignore
+
+<!-- TODO: add diagram or screenshot -->
+
+---
+
+### Milestone: Full Engineering Documentation & Architecture Expansion *(next commit)*
+**Date:** 2026-04-23
 
 **What this commit will deliver:**
 

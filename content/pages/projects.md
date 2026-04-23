@@ -25,8 +25,7 @@ A Python CLI tool that validates JSON service-graph models (nodes, edges) and pr
 **Skills:** Python · pytest · Docker · JSON schema validation · OWASP mindset
 
 **Milestone logs:**  
-→ [Initial validator with typed report and tests](../posts/secure-python-service/designing-a-validation-tool/)  
-→ [Documentation & architecture expansion](../posts/secure-python-service/documentation-architecture-expansion/) *(draft)*
+→ [All milestones for this project](../posts/#secure-python-service)
 
 ---
 
