@@ -1,4 +1,4 @@
-baseURL = "https://kemrictomta.github.io/cloud-security-learning/"
+baseURL = "https://kemrictomta.github.io/cloud-security-engineering/"
 languageCode = "en"
 title = "KemricTomta — Cloud & Security Learning"
 theme = "hugo-blog-awesome"
